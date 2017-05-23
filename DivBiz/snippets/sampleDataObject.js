@@ -1,4 +1,5 @@
-[{
+var sampleDataObject = [
+  {
     "zip": "20743",
     "products_services": "INDUSTRIAL LAUNDERERS SPECIFICALLY PROFESSIONAL LAUNDRY SERVICE TO LUXURY HOTELS",
     "naics_code": "812332-MBE/DBE/SBE",
@@ -28268,3 +28269,4 @@
     "certification_date": "2007-05-11T00:00:00"
   }
 ]
+module.exports = sampleDataObject;
