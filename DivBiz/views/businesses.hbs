@@ -1,5 +1,21 @@
-<h1>{{title}}</h1>
-<p>Welcome to {{title}}</p>
-<p>
-  {{firstBusinessName}}
-</p>
+<div class= "titles">
+  <h1>{{title}}</h1>
+  <h3>Minority and Disadvantaged Business Enterprises for all Maryland Counties</h3>
+</div>
+
+<table>
+  <tr>
+    <th>Business Name</th>
+    <th>Certification Number</th>
+    <th>NAICS Code</th>
+    <th>Products and Services</th>
+  </tr>
+  {{#each businessArray}}
+  <tr class= "table-rows">
+    <td><p><a href="/business-detail/{{certification_number}}">{{name}}</a></p></td>
+    <td><p>{{certification_number}}</p></td>
+    <td><p>{{naics_code}}</p></td>
+    <td><p>{{products_services}}</p></td>
+  </tr>
+  {{/each}}
+</table>
