@@ -8,8 +8,10 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/businesses', function(req, res) {
-  console.log(sampleData)
-  res.render('businesses', { title: 'Businesses'});
+  res.render('businesses', {
+    title: 'Businesses',
+    firstBusinessName: sampleData[0].name
+  });
 });
 
 module.exports = router;
