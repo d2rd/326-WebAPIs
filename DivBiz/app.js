@@ -5,6 +5,13 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
+// pg-promise setup
+var pgp = require('pg-promise')({
+  // Initialization Options
+
+});
+var db = pgp('postgres://DivBizAdmin:divbiz@127.0.0.1:5432/DivBiz?ssl=Prefer&application_name=divbiz&fallback_application_name=name');
+
 var index = require('./routes/index');
 var users = require('./routes/users');
 
