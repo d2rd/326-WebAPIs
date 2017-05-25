@@ -1,4 +1,16 @@
-<h1>{{businessObject.name}}</h1>
-<h1>{{businessObject.certification_number}}</h1>
-<h1>{{businessObject.naics_code}}</h1>
-<h1>{{businessObject.zip}}</h1>
+{{#each businessObject}}
+<table>
+  <tr>
+    <th>{{@key}}</th>
+  </tr>
+  <tr>
+    <td>
+      {{#each this}}
+        {{@key}}
+        {{this}}
+      {{/each}}
+      {{this}}
+    </td>
+  </tr>
+</table>
+{{/each}}
