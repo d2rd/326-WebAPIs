@@ -3,6 +3,24 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
+.titles{
+  text-align: center;
+}
+
 a {
   color: #00B7FF;
+}
+
+table {
+  border: 1px solid black;
+  width: 100%;
+  text-align: left;
+  overflow-x: auto;
+  margin-top: 10px;
+}
+
+td {
+  border: 1px solid black;
+  padding-top: .5em;
+  padding-bottom: .5em;
 }

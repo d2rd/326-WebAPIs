@@ -1,0 +1,16 @@
+{{#each businessObject}}
+<table>
+  <tr>
+    <th>{{@key}}</th>
+  </tr>
+  <tr>
+    <td>
+      {{#each this}}
+        {{@key}}
+        {{this}}
+      {{/each}}
+      {{this}}
+    </td>
+  </tr>
+</table>
+{{/each}}

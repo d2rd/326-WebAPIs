@@ -1,3 +1,7 @@
+// var json2csv = require('json2csv')
+// var fs = require('fs');
+// var fields = ['zip', 'products_services', 'naics_code', 'website.url', 'address', 'city', 'county', 'certification_number', 'geocoded_location.latitude', 'geocoded_location.human_address.address', 'geocoded_location.human_address.city', 'geocoded_location.human_address.state', 'geocoded_location.human_address.zip', 'geocoded_location.needs_recoding', 'geocoded_location.longitude', 'minority_group', 'phone.phone_number', 'contact', 'name', 'state', 'fax.phone_number', 'certification_date']
+
 var sampleDataObject = [
   {
     "zip": "20743",
@@ -28269,4 +28273,10 @@ var sampleDataObject = [
     "certification_date": "2007-05-11T00:00:00"
   }
 ]
+// var csv = json2csv({data: sampleDataObject, fields: fields})
+//
+// fs.writeFile('sampleData.csv', csv, function(err) {
+//   if (err) throw err;
+//   console.log('file saved');
+// })
 module.exports = sampleDataObject;
