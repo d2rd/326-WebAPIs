@@ -64,7 +64,7 @@ An added benefit of working on a concept-focus goal is that you'll have a projec
 #### General
 
 - [x] Artifact produced is a GitHub repo.
-- [ ] The best resources you find for learning testing are added to a file `resources.md`.
+- [x] The best resources you find for learning testing are added to a file `resources.md`.
 - [x] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 #### Server
@@ -74,7 +74,7 @@ An added benefit of working on a concept-focus goal is that you'll have a projec
 
 #### Request Types
 - [x] The web server handles routes for `GET` requests
-- [ ] The web server handles routes for `POST` requests
+- [x] The web server handles routes for `POST` requests
 - [ ] The web server handles routes for `PUT/PATCH` requests
 - [ ] The web server handles routes for `DELETE` requests
 - [ ] Examples of each HTTP verb usage are listed and linked to in the README

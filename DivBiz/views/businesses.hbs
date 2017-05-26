@@ -3,6 +3,10 @@
   <h3>Minority and Disadvantaged Business Enterprises for all Maryland Counties</h3>
 </div>
 
+<div>
+  <span>Have a business to add to this list? </span><a href="/addBusiness">Click here</a>
+</div>
+
 <table>
   <tr>
     <th>Business Name</th>
@@ -10,7 +14,7 @@
     <th>NAICS Code</th>
     <th>Products and Services</th>
   </tr>
-  {{#each businessArray}}
+  {{#each businesses}}
   <tr class= "table-rows">
     <td><p><a href="/business-detail/{{certification_number}}">{{name}}</a></p></td>
     <td><p>{{certification_number}}</p></td>

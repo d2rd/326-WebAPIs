@@ -1,32 +1,25 @@
 var express = require('express');
 var router = express.Router();
-var sampleData = require('../snippets/sampleDataObject')
+var sampleData = require('../json-csv-sql/sampleDataObject')
+var db = require('../json-csv-sql/dbqueries.js');
 
-/* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'MBE/DBE Businesses in Maryland' });
 });
+
 
 router.get('/businesses', function(req, res) {
-  res.render('businesses', {
-    title: 'MBE/DBE Businesses in Maryland',
-    businessArray: sampleData
-  });
+  db.listBusinesses()
+  .then(businesses => {
+    res.render('businesses', { title: 'MBE/DBE Businesses in Maryland', businesses: businesses });
+  }).catch(error => {
+    res.render(error)
+  })
 });
 
-//example from bookstore:
-// router.get('/book/:id', (req, res) => {
-//   const id = req.params.id
-//   db.viewBook(id)
-//   .then(books => {
-//     res.render('bookdetail', { books: books})
-//   } )
-// })
-
 router.get('/business-detail/:certification_number', function(req, res) {
-  console.log("made it into certification number get");
+  console.log("in here")
   var {certification_number} = req.params
-  console.log(certification_number, "certification number")
   var businessObjectData
   for (var i = 0; i < sampleData.length; i++) {
     if (sampleData[i].certification_number === certification_number) {
@@ -36,8 +29,27 @@ router.get('/business-detail/:certification_number', function(req, res) {
   res.render('business-detail', {
     businessObject: businessObjectData
   })
+});
 
+router.get('/addBusiness', (req, res, next) => {
+  res.render('addBusiness');
+});
+
+router.post('/addBusiness', (req, res) => {
+  let business = req.body
+  db.addBusiness(business)
+  .then(() =>
+  res.redirect('/thankYou'))
+  .catch(error => {
+    res.status(500).render('error', {
+      error: error,
+      message: error.message,
+    })
+  })
 })
 
+router.get('/thankYou', (req, res, next) => {
+  res.render('thankYou')
+});
+
 module.exports = router;
-for   
