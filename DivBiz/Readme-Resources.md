@@ -1,6 +1,14 @@
+JSON FILE MANIPULATION & CONVERSION TOOLS
+    Convert JSON to CSV
+        https://konklone.io/json/
+        Most effective tool I could find.
+
+    Beautify Converter
+        https://www.beautifyconverter.com/json-to-sql-converter.php
+        Wide variety of converters.  Had trouble with our file although it was validated by another tool.
 
 
-JSON File Maninpulation
+
    Convert JSON Data to Rows and Columns with OPENJSON (SQL Server) | Microsoft Docs    https://docs.microsoft.com/en-us/sql/relational-databases/json/convert-json-data-to-rows-and-columns-with-openjson-sql-server
 
     PostgreSQL: Documentation: 9.6: JSON Types
