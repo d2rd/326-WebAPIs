@@ -4,7 +4,7 @@
   "naics_code" : "812332-MBE/DBE/SBE",
   "address" : "1030 HAMPTON PARK BLVD. SUITE 100",
   "city" : "CAPITOL HEIGHTS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-346",
   "geocoded_location" : {
     "latitude" : "38.876658",
@@ -113,7 +113,7 @@
   },
   "address" : "7003 GLENN DALE ROAD, SUITE 151",
   "city" : "GLENN DALE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-119",
   "geocoded_location" : {
     "latitude" : "38.986433",
@@ -499,7 +499,7 @@
   },
   "contact" : "DRENA BULLOCK",
   "contact_email_address" : "3DSHAULINGANDCONSTRUCTION@GMAIL.COM",
-  "name" : "3D'S HAULING & CONSTRUCTION, LLC",
+  "name" : "3DS HAULING & CONSTRUCTION, LLC",
   "state" : "MD",
   "fax" : {
     "phone_number" : "4102472483"
@@ -757,7 +757,7 @@
   },
   "contact" : "MARGA GRAY",
   "contact_email_address" : "FOURKSCREEN@OUTLOOK.COM",
-  "name" : "4 K'S PROMOTIONAL PRODUCTS",
+  "name" : "4 KS PROMOTIONAL PRODUCTS",
   "state" : "MD",
   "fax" : {
     "phone_number" : "3018553121"
@@ -992,7 +992,7 @@
   "naics_code" : "238220-MBE/DBE/SBE",
   "address" : "12009 LUSBY LANE",
   "city" : "BRANDYWINE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-525",
   "geocoded_location" : {
     "latitude" : "38.726467",
@@ -1105,7 +1105,7 @@
   },
   "address" : "4237 CHARIOT WAY",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "14-019",
   "geocoded_location" : {
     "latitude" : "38.831545",
@@ -1135,7 +1135,7 @@
   },
   "address" : "2206 SENATOR AVENUE",
   "city" : "DISTRICT HEIGHTS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-243",
   "geocoded_location" : {
     "latitude" : "38.858346",
@@ -1195,7 +1195,7 @@
   },
   "address" : "8230 CANNING TERRACE",
   "city" : "GREENBELT",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "11-586",
   "geocoded_location" : {
     "latitude" : "38.990633",
@@ -1219,7 +1219,7 @@
   "naics_code" : "236118-MBE/DBE/SBE, 238160-MBE/DBE/SBE, 238320-MBE/DBE/SBE, 238330-MBE/DBE/SBE, 238990-MBE/DBE/SBE, 561790-MBE/DBE/SBE",
   "address" : "8900 EDGEWORTH DRIVE, UNIT U",
   "city" : "CAPITOL HEIGHTS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "13-213",
   "geocoded_location" : {
     "latitude" : "38.881386",
@@ -1246,7 +1246,7 @@
   "naics_code" : "811122-MBE/DBE/SBE",
   "address" : "7315 WEBSTER TURN",
   "city" : "FORT WASHINGTON",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "14-378",
   "geocoded_location" : {
     "latitude" : "38.788436",
@@ -1424,7 +1424,7 @@
   },
   "contact" : "TRACEY RHOTEN",
   "contact_email_address" : "TRACEY@AARONSCONCRETEPUMPING.NET",
-  "name" : "AARON'S CONCRETE PUMPING, INC.",
+  "name" : "AARONS CONCRETE PUMPING, INC.",
   "state" : "MD",
   "fax" : {
     "phone_number" : "4107951032"
@@ -1451,7 +1451,7 @@
   },
   "contact" : "LARRY WILLIAMS, JR.",
   "contact_email_address" : "LARRY.WILLIAMS953@GMAIL.COM",
-  "name" : "AARON'S TRUCKING, INC.",
+  "name" : "AARONS TRUCKING, INC.",
   "state" : "MD",
   "certification_date" : "2015-08-26T00:00:00"
 }
@@ -1543,7 +1543,7 @@
   "naics_code" : "541219-MBE/DBE/SBE, 541611-MBE/DBE/SBE, 611430-MBE/DBE/SBE",
   "address" : "INGLEWOOD PROFESSIONAL CENTER",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "06-492",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"INGLEWOOD PROFESSIONAL CENTER\",\"city\":\"LARGO\",\"state\":\"MD\",\"zip\":\"20774\"}",
@@ -1658,7 +1658,7 @@
   },
   "address" : "9450 ANNAPOLIS ROAD",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "94-165",
   "geocoded_location" : {
     "latitude" : "38.964906",
@@ -1803,7 +1803,7 @@
   "naics_code" : "238130-MBE/DBE/SBE, 238310-MBE/DBE/SBE, 238320-MBE/DBE/SBE, 238330-MBE/DBE/SBE",
   "address" : "7511 CATONE COURT",
   "city" : "OXON HILL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-517",
   "geocoded_location" : {
     "latitude" : "38.786804",
@@ -2115,7 +2115,7 @@
   },
   "address" : "1836 METZEROTT RD, SUITE 1211",
   "city" : "ADELPHI",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "13-231",
   "geocoded_location" : {
     "latitude" : "39.003762",
@@ -2145,7 +2145,7 @@
   },
   "address" : "12719 TOWN CENTER WAY",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "11-349",
   "geocoded_location" : {
     "latitude" : "38.771298",
@@ -2435,7 +2435,7 @@
   },
   "address" : "5804 LOWERY LANE",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-011",
   "geocoded_location" : {
     "latitude" : "38.809285",
@@ -2874,7 +2874,7 @@
   },
   "address" : "P.O. BOX 1295",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "04-395",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P.O. BOX 1295\",\"city\":\"UPPER MARLBORO\",\"state\":\"MD\",\"zip\":\"20773\"}",
@@ -2962,7 +2962,7 @@
   },
   "address" : "2013 FOXMEADOW WAY",
   "city" : "MITCHELLVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "05-296",
   "geocoded_location" : {
     "latitude" : "38.918657",
@@ -3050,7 +3050,7 @@
   },
   "address" : "1300 MERCANTILE LANE, SUITE 100, C2",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "13-131",
   "geocoded_location" : {
     "latitude" : "38.90832",
@@ -3363,7 +3363,7 @@
   "naics_code" : "812199-MBE/DBE/SBE",
   "address" : "7738 OXMAN RD",
   "city" : "LANDOVER",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "17-097",
   "geocoded_location" : {
     "latitude" : "38.922484",
@@ -3587,7 +3587,7 @@
   "naics_code" : "541330-MBE/DBE/SBE",
   "address" : "7500 GREENWAY CENTER DRIVE, SUITE 1050",
   "city" : "GREENBELT",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "13-100",
   "geocoded_location" : {
     "latitude" : "38.991085",
@@ -3614,7 +3614,7 @@
   "naics_code" : "541511-MBE/DBE/SBE, 541512-MBE/DBE/SBE, 541513-MBE/DBE/SBE",
   "address" : "13761 CARLENE DRIVE",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-108",
   "geocoded_location" : {
     "latitude" : "38.84326",
@@ -3641,7 +3641,7 @@
   },
   "address" : "2305 51ST PLACE",
   "city" : "HYATTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "87-069",
   "geocoded_location" : {
     "latitude" : "38.919035",
@@ -3888,7 +3888,7 @@
   "naics_code" : "237110-MBE/DBE/SBE, 238910-MBE/DBE/SBE, 484220-MBE/DBE/SBE, 541330-MBE/DBE/SBE",
   "address" : "P O BOX 883",
   "city" : "GREENBELT",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "05-387",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P O BOX 883\",\"city\":\"GREENBELT\",\"state\":\"MD\",\"zip\":\"20768\"}",
@@ -3913,7 +3913,7 @@
   "naics_code" : "236115-MBE/DBE/SBE, 236116-MBE/DBE/SBE, 236117-MBE/DBE/SBE, 236118-MBE/DBE/SBE, 236220-MBE/DBE/SBE, 531311-MBE/DBE/SBE, 531390-MBE/DBE/SBE",
   "address" : "11600 LEGEND GLEN DRIVE",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "17-217",
   "geocoded_location" : {
     "latitude" : "38.950826",
@@ -3973,7 +3973,7 @@
   },
   "address" : "17117 RUSSET DRIVE",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-681",
   "geocoded_location" : {
     "latitude" : "38.948982",
@@ -4027,7 +4027,7 @@
   },
   "address" : "7 STATON DRIVE",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "11-616",
   "geocoded_location" : {
     "latitude" : "38.89922",
@@ -4057,7 +4057,7 @@
   },
   "address" : "P.O. BOX 1248",
   "city" : "LAUREL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-245",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P.O. BOX 1248\",\"city\":\"LAUREL\",\"state\":\"MD\",\"zip\":\"20725\"}",
@@ -4085,7 +4085,7 @@
   },
   "address" : "2012 UPSHIRE COURT",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "11-658",
   "geocoded_location" : {
     "latitude" : "38.917494",
@@ -4290,7 +4290,7 @@
   },
   "address" : "9425 BLUEFIELD ROAD",
   "city" : "SPRINGDALE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-527",
   "geocoded_location" : {
     "latitude" : "38.943069",
@@ -4580,7 +4580,7 @@
   },
   "address" : "9801 GREENBELT ROAD SUITE 313",
   "city" : "SEABROOK",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-253",
   "geocoded_location" : {
     "latitude" : "38.99079",
@@ -4610,7 +4610,7 @@
   },
   "address" : "9701 APOLLO DRIVE",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "01-297",
   "geocoded_location" : {
     "latitude" : "38.905142",
@@ -4784,7 +4784,7 @@
   },
   "address" : "6525 BELCREST ROAD, SUITE 426",
   "city" : "HYATTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "05-428",
   "geocoded_location" : {
     "latitude" : "38.969567",
@@ -5081,7 +5081,7 @@
   },
   "address" : "P. O. BOX 426",
   "city" : "ACCOKEEK",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-111",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P. O. BOX 426\",\"city\":\"ACCOKEEK\",\"state\":\"MD\",\"zip\":\"20607\"}",
@@ -5831,7 +5831,7 @@
   },
   "address" : "9470 ANNAPOLIS ROAD, SUITE 108",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "11-172",
   "geocoded_location" : {
     "latitude" : "38.964896",
@@ -5861,7 +5861,7 @@
   },
   "address" : "11302 CROSS ROAD TRAIL",
   "city" : "BRANDYWINE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "11-064",
   "geocoded_location" : {
     "latitude" : "38.720101",
@@ -6058,7 +6058,7 @@
   },
   "address" : "7655 EAST ARBORY COURT",
   "city" : "LAUREL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-646",
   "geocoded_location" : {
     "latitude" : "39.099691",
@@ -6139,7 +6139,7 @@
   },
   "address" : "7237 HANOVER PARKWAY, SUITES C&D",
   "city" : "GREENBELT",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "17-002",
   "geocoded_location" : {
     "latitude" : "38.989724",
@@ -6166,7 +6166,7 @@
   "naics_code" : "484220-MBE/DBE/SBE, 488490-MBE/DBE/SBE",
   "address" : "6917 FURNESS AVENUE",
   "city" : "OXON HILL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "01-486",
   "geocoded_location" : {
     "latitude" : "38.794021",
@@ -6501,7 +6501,7 @@
   },
   "address" : "4920 NIAGARA ROAD, SUITE 416",
   "city" : "COLLEGE PARK",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-183",
   "geocoded_location" : {
     "latitude" : "39.017437",
@@ -6837,7 +6837,7 @@
   },
   "address" : "12138 CENTRAL AVENUE, SUITE 417",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-392",
   "geocoded_location" : {
     "latitude" : "38.899381",
@@ -6864,7 +6864,7 @@
   },
   "address" : "9244 E. HAMPTON DRIVE, #612",
   "city" : "CAPITOL HEIGHTS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-568",
   "geocoded_location" : {
     "latitude" : "38.882844",
@@ -7163,7 +7163,7 @@
     "phone_number" : "3015362683"
   },
   "contact" : "JUAN GONZALEZ",
-  "name" : "ALBA'S CONTRACTOR'S INC",
+  "name" : "ALBAS CONTRACTORS INC",
   "state" : "MD",
   "certification_date" : "2010-01-11T00:00:00"
 }
@@ -7317,7 +7317,7 @@
   },
   "address" : "P. O. BOX 754",
   "city" : "CHELTENHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "14-081",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P. O. BOX 754\",\"city\":\"CHELTENHAM\",\"state\":\"MD\",\"zip\":\"20623\"}",
@@ -7372,7 +7372,7 @@
   },
   "address" : "13501 WOODEDGE DRIVE",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-673",
   "geocoded_location" : {
     "latitude" : "38.979732",
@@ -7402,7 +7402,7 @@
   },
   "address" : "12404 LYTTON AVENUE",
   "city" : "BRANDYWINE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "06-052",
   "geocoded_location" : {
     "latitude" : "38.719988",
@@ -8219,7 +8219,7 @@
   },
   "address" : "5532 TUXEDO ROAD",
   "city" : "HYATTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-094",
   "geocoded_location" : {
     "latitude" : "38.917276",
@@ -8330,7 +8330,7 @@
   "naics_code" : "235930-MBE-ONLY, 237110-MBE-ONLY",
   "address" : "8001 PARSTON DRIVE",
   "city" : "DISTRICT HEIGHTS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "06-237",
   "geocoded_location" : {
     "latitude" : "38.845532",
@@ -8469,7 +8469,7 @@
   },
   "address" : "11908 MAHER DRIVE",
   "city" : "FORT WASHINGTON",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "14-556",
   "geocoded_location" : {
     "latitude" : "38.730815",
@@ -8499,7 +8499,7 @@
   },
   "address" : "1300 MERCANTILE LANE",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "14-035",
   "geocoded_location" : {
     "latitude" : "38.90832",
@@ -8523,7 +8523,7 @@
   "naics_code" : "811111-MBE/DBE/SBE, 811112-MBE/DBE/SBE, 811118-MBE/DBE/SBE, 811191-MBE/DBE/SBE, 811192-MBE/DBE/SBE, 811198-MBE/DBE/SBE",
   "address" : "500 CAPITOL HEIGHTS BLVD",
   "city" : "CAPITOL HEIGHTS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-293",
   "geocoded_location" : {
     "latitude" : "38.883387",
@@ -8694,7 +8694,7 @@
   },
   "contact" : "CESAR ALONSO",
   "contact_email_address" : "CHILIZKISALONSO@AOL.COM",
-  "name" : "ALONSO'S DRYWALL & PAINTING, LLC",
+  "name" : "ALONSOS DRYWALL & PAINTING, LLC",
   "state" : "MD",
   "fax" : {
     "phone_number" : "4107609965"
@@ -8710,7 +8710,7 @@
   },
   "address" : "14240 HAMPSHIRE HALL COURT",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-204",
   "geocoded_location" : {
     "latitude" : "38.822606",
@@ -8909,7 +8909,7 @@
   },
   "address" : "15804 BADEN NAYLOR ROAD",
   "city" : "BRANDYWINE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "10-754",
   "geocoded_location" : {
     "latitude" : "38.672296",
@@ -9023,7 +9023,7 @@
   },
   "address" : "5104 KAREN ANNE COURT",
   "city" : "TEMPLE HILLS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "11-134",
   "geocoded_location" : {
     "latitude" : "38.791328",
@@ -9124,7 +9124,7 @@
   },
   "contact" : "ALVIN MACE LEWIS, SR.",
   "contact_email_address" : "FRBALTIMOREMD1@AERUSONLINE.COM",
-  "name" : "AL'S FLOORCARE, INC. (AERUS ELECTROLUX)",
+  "name" : "ALS FLOORCARE, INC. (AERUS ELECTROLUX)",
   "state" : "MD",
   "fax" : {
     "phone_number" : "4105746230"
@@ -9281,7 +9281,7 @@
   },
   "address" : "P. O. BOX 1394",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-054",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P. O. BOX 1394\",\"city\":\"UPPER MARLBORO\",\"state\":\"MD\",\"zip\":\"20772\"}",
@@ -9423,7 +9423,7 @@
   "naics_code" : "484220-MBE/DBE/SBE, 561720-MBE/DBE/SBE, 561730-MBE/DBE/SBE, 561740-MBE/DBE/SBE, 561790-MBE/DBE/SBE, 562111-MBE/DBE/SBE",
   "address" : "1806 FENWOOD AVENUE",
   "city" : "OXON HILL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-561",
   "geocoded_location" : {
     "latitude" : "38.808637",
@@ -9564,7 +9564,7 @@
   },
   "address" : "4902-A 47TH AVENUE",
   "city" : "HYATTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "91-082",
   "geocoded_location" : {
     "latitude" : "38.950849",
@@ -9594,7 +9594,7 @@
   },
   "address" : "10104 SENATE DRIVE, SUITE 208",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "13-427",
   "geocoded_location" : {
     "latitude" : "38.952058",
@@ -9678,7 +9678,7 @@
   "naics_code" : "484220-MBE/DBE/SBE, 488490-MBE/DBE/SBE, 561730-MBE/DBE/SBE",
   "address" : "3915 ELBY STREET",
   "city" : "SILVER SPRING",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "10-232",
   "geocoded_location" : {
     "latitude" : "39.059999",
@@ -9766,7 +9766,7 @@
   },
   "address" : "1300 MERCHANTILE LANE, SUITE",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "14-143",
   "geocoded_location" : {
     "latitude" : "38.90832",
@@ -9795,7 +9795,7 @@
   },
   "address" : "3710 RIVIERA STREET, SUITE 1A",
   "city" : "TEMPLE HILLS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-007",
   "geocoded_location" : {
     "latitude" : "38.831076",
@@ -9855,7 +9855,7 @@
   },
   "address" : "551 COMMERCE DRIVE - SUITE B",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "02-056",
   "geocoded_location" : {
     "latitude" : "38.880045",
@@ -9885,7 +9885,7 @@
   },
   "address" : "9612 MARLBORO PIKE/PENNSYLVANIA AVENUE",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-625",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"9612 MARLBORO PIKE/PENNSYLVANIA AVENUE\",\"city\":\"UPPER MARLBORO\",\"state\":\"MD\",\"zip\":\"20772\"}",
@@ -10022,7 +10022,7 @@
   },
   "address" : "44423 AIRPORT ROAD, SUITE 102",
   "city" : "CALIFORNIA",
-  "county" : "ST. MARY'S",
+  "county" : "ST. MARYS",
   "certification_number" : "06-443",
   "geocoded_location" : {
     "latitude" : "38.312672",
@@ -10222,7 +10222,7 @@
   },
   "address" : "11251 SOMERSET AVENUE",
   "city" : "BELTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "10-150",
   "geocoded_location" : {
     "latitude" : "39.038341",
@@ -10312,7 +10312,7 @@
   },
   "address" : "1478 ADDISON ROAD",
   "city" : "CAPITAL HEIGHTS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-675",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"1478 ADDISON ROAD\",\"city\":\"CAPITAL HEIGHTS\",\"state\":\"MD\",\"zip\":\"20743\"}",
@@ -10397,7 +10397,7 @@
   },
   "address" : "9094 BALTIMORE AVENUE",
   "city" : "COLLEGE PARK",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-633",
   "geocoded_location" : {
     "latitude" : "39.002763",
@@ -10680,7 +10680,7 @@
   "naics_code" : "237310-MBE/DBE/SBE, 238140-MBE/DBE/SBE, 238990-MBE/DBE/SBE",
   "address" : "7001 GLENN DALE ROAD",
   "city" : "GLEN DALE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-557",
   "geocoded_location" : {
     "latitude" : "38.986017",
@@ -10767,7 +10767,7 @@
   "naics_code" : "531320-MBE/DBE/SBE",
   "address" : "3605 SPRING TERRACE",
   "city" : "TEMPLE HILLS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-112",
   "geocoded_location" : {
     "latitude" : "38.816131",
@@ -10824,7 +10824,7 @@
   },
   "address" : "9103 WOODMORE CENTRE DRIVE, NO 147",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "14-023",
   "geocoded_location" : {
     "latitude" : "38.920743",
@@ -10848,7 +10848,7 @@
   "naics_code" : "425120-MBE/DBE/SBE, 541611-MBE/DBE/SBE",
   "address" : "11012 OLD YORK ROAD",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-503",
   "geocoded_location" : {
     "latitude" : "38.917854",
@@ -10992,7 +10992,7 @@
   },
   "address" : "14625 BALTIMORE AVE",
   "city" : "LAUREL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "11-490",
   "geocoded_location" : {
     "latitude" : "39.090252",
@@ -11006,7 +11006,7 @@
   },
   "contact" : "AMY ROGERS",
   "contact_email_address" : "AMYROGERS01@GMAIL.COM",
-  "name" : "AMY'S CONTRACTING SERVICES, LLC",
+  "name" : "AMYS CONTRACTING SERVICES, LLC",
   "state" : "MD",
   "fax" : {
     "phone_number" : "3016373522"
@@ -11076,7 +11076,7 @@
   "naics_code" : "488410-MBE-ONLY",
   "address" : "7820 MARLBORO PIKE",
   "city" : "FORESTVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "06-352",
   "geocoded_location" : {
     "latitude" : "38.842169",
@@ -11221,7 +11221,7 @@
   },
   "address" : "12138 CENTRAL AVENUE, SUITE 208",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "03-381",
   "geocoded_location" : {
     "latitude" : "38.899381",
@@ -11333,7 +11333,7 @@
   "naics_code" : "454390-MBE/DBE/SBE",
   "address" : "2416 NICOL CIRCLE",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-361",
   "geocoded_location" : {
     "latitude" : "38.923186",
@@ -11540,7 +11540,7 @@
   "naics_code" : "492110-MBE/DBE/SBE",
   "address" : "5106 MAREWOOD COURT",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "14-603",
   "geocoded_location" : {
     "latitude" : "38.819973",
@@ -11600,7 +11600,7 @@
   },
   "address" : "9111 EDMONSTON ROAD, SUITE 305",
   "city" : "GREENBELT",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "06-112",
   "geocoded_location" : {
     "latitude" : "38.999424",
@@ -11720,7 +11720,7 @@
   },
   "contact" : "ANGELA GROSS",
   "contact_email_address" : "AGROSS@AF.UMARYLAND.EDU",
-  "name" : "ANGIE'S CLEANING SERVICE, LLC",
+  "name" : "ANGIES CLEANING SERVICE, LLC",
   "state" : "MD",
   "certification_date" : "2011-07-12T00:00:00"
 }
@@ -11733,7 +11733,7 @@
   },
   "address" : "3815 34TH STREET",
   "city" : "MOUNT RAINIER",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-621",
   "geocoded_location" : {
     "latitude" : "38.936942",
@@ -11991,7 +11991,7 @@
   },
   "address" : "11191 CRAIN HIGHWAY",
   "city" : "CHELTENHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "06-461",
   "geocoded_location" : {
     "latitude" : "38.735902",
@@ -12046,7 +12046,7 @@
   },
   "address" : "10 G STREET NE, SUITE 460",
   "city" : "WASHINGTON",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "06-395",
   "geocoded_location" : {
     "latitude" : "38.898896",
@@ -12129,7 +12129,7 @@
   },
   "address" : "9250 BENDIX ROAD, SUTIE 950",
   "city" : "COLUMBIA",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-172",
   "geocoded_location" : {
     "latitude" : "39.236378",
@@ -12186,7 +12186,7 @@
   },
   "address" : "9801 APOLLO DRIVE, SUITE 7312",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "10-648",
   "geocoded_location" : {
     "latitude" : "38.90329",
@@ -12254,7 +12254,7 @@
   },
   "contact" : "RAUL A. ARGUMEDO",
   "contact_email_address" : "ANTONIOSTRUCKINGINC@GMAIL.COM",
-  "name" : "ANTONIO'S TRUCKING, INC.",
+  "name" : "ANTONIOS TRUCKING, INC.",
   "state" : "MD",
   "fax" : {
     "phone_number" : "4107994187"
@@ -12381,7 +12381,7 @@
   "naics_code" : "236220-MBE/DBE/SBE, 237990-MBE/DBE/SBE, 238130-MBE/DBE/SBE, 238310-MBE/DBE/SBE, 238320-MBE/DBE/SBE, 238340-MBE/DBE/SBE",
   "address" : "7415 WILHELM DRIVE",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-526",
   "geocoded_location" : {
     "latitude" : "38.978618",
@@ -12497,7 +12497,7 @@
   },
   "address" : "9500 ARENA DRIVE, SUITE 360",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "04-012",
   "geocoded_location" : {
     "latitude" : "38.903635",
@@ -12524,7 +12524,7 @@
   "naics_code" : "237310-MBE/DBE/SBE, 237990-MBE/DBE/SBE, 238110-MBE/DBE/SBE, 238910-MBE/DBE/SBE, 238990-MBE/DBE/SBE, 423320-MBE/DBE/SBE, 484220-MBE/DBE/SBE, 488490-MBE/DBE/SBE",
   "address" : "21250 HUNTING COURT",
   "city" : "LEONARDTOWN",
-  "county" : "ST. MARY'S",
+  "county" : "ST. MARYS",
   "certification_number" : "10-311",
   "geocoded_location" : {
     "latitude" : "38.252007",
@@ -12612,7 +12612,7 @@
   },
   "address" : "15217 BADEN WESTWOOD ROAD, SUITE 203",
   "city" : "BRANDYWINE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "14-083",
   "geocoded_location" : {
     "latitude" : "38.657262",
@@ -12762,7 +12762,7 @@
   },
   "address" : "P. O. BOX 4238",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "10-538",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P. O. BOX 4238\",\"city\":\"UPPER MARLBORO\",\"state\":\"MD\",\"zip\":\"20775\"}",
@@ -12996,7 +12996,7 @@
   },
   "address" : "8681 CHERRY LANE",
   "city" : "LAUREL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "96-253",
   "geocoded_location" : {
     "latitude" : "39.089099",
@@ -13056,7 +13056,7 @@
   },
   "address" : "12138 CENTRAL AVENUE #410",
   "city" : "MITCHELLVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "17-003",
   "geocoded_location" : {
     "latitude" : "38.899381",
@@ -13113,7 +13113,7 @@
   },
   "address" : "P. O. BOX 1312",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-509",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P. O. BOX 1312\",\"city\":\"LANHAM\",\"state\":\"MD\",\"zip\":\"20703\"}",
@@ -13285,7 +13285,7 @@
   "naics_code" : "323110-MBE/DBE/SBE, 424120-MBE/DBE/SBE, 541618-MBE/DBE/SBE",
   "address" : "4801 COLLEGE AVENUE",
   "city" : "COLLEGE PARK",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "97-275",
   "geocoded_location" : {
     "latitude" : "38.980437",
@@ -13400,7 +13400,7 @@
   },
   "address" : "8562 EDGEWORTH DRIVE",
   "city" : "CAPITOL HEIGHTS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-698",
   "geocoded_location" : {
     "latitude" : "38.880389",
@@ -13427,7 +13427,7 @@
   "naics_code" : "236220-DBE/SBE-ONLY",
   "address" : "9701 APOLLO DRIVE",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "17-099",
   "geocoded_location" : {
     "latitude" : "38.905142",
@@ -13741,7 +13741,7 @@
   },
   "address" : "13003 ISAAC DUCKETT ROAD",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-178",
   "geocoded_location" : {
     "latitude" : "38.94076",
@@ -13861,7 +13861,7 @@
   },
   "address" : "5827 ALLENTOWN WAY",
   "city" : "TEMPLE HILLS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "01-108",
   "geocoded_location" : {
     "latitude" : "38.800694",
@@ -13891,7 +13891,7 @@
   },
   "address" : "5827 ALLENTOWN WAY",
   "city" : "TEMPLE HILLS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "14-135",
   "geocoded_location" : {
     "latitude" : "38.800694",
@@ -14177,7 +14177,7 @@
   "naics_code" : "238110-MBE/DBE/SBE, 238130-MBE/DBE/SBE, 238140-MBE/DBE/SBE, 238350-MBE/DBE/SBE, 238910-MBE/DBE/SBE",
   "address" : "9012 MAGNOLIA AVENUE",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "05-237",
   "geocoded_location" : {
     "latitude" : "38.965471",
@@ -14378,7 +14378,7 @@
   },
   "address" : "7474 GREENWAY CENTER DRIVE, SUITE 600",
   "city" : "GREENBELT",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "02-523",
   "geocoded_location" : {
     "latitude" : "38.990901",
@@ -14513,7 +14513,7 @@
   },
   "address" : "7912 WHITEWATER COURT",
   "city" : "CLINTON",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-485",
   "geocoded_location" : {
     "latitude" : "38.763732",
@@ -14682,7 +14682,7 @@
   },
   "address" : "4621 BOSTON WAY, SUITE C",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "04-184",
   "geocoded_location" : {
     "latitude" : "38.953087",
@@ -14769,7 +14769,7 @@
   },
   "address" : "4700 STAMP ROAD, UNIT D2",
   "city" : "TEMPLE HILLS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-262",
   "geocoded_location" : {
     "latitude" : "38.825628",
@@ -14852,7 +14852,7 @@
   },
   "address" : "8201 CORPORATE DRIVE, SUITE 1200",
   "city" : "LANDOVER",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "98-071",
   "geocoded_location" : {
     "latitude" : "38.946795",
@@ -14879,7 +14879,7 @@
   "naics_code" : "484220-MBE/DBE/SBE, 488490-MBE/DBE/SBE",
   "address" : "4747 ROLLING DALE WAY",
   "city" : "CAPITOL HEIGHT",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "17-214",
   "geocoded_location" : {
     "latitude" : "38.867452",
@@ -14984,7 +14984,7 @@
   },
   "address" : "P. O. BOX 1318",
   "city" : "CLINTON",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "08-483",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P. O. BOX 1318\",\"city\":\"CLINTON\",\"state\":\"MD\",\"zip\":\"20735\"}",
@@ -15039,7 +15039,7 @@
   },
   "address" : "6301 IVY LANE, SUITE 812",
   "city" : "GREENBELT",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "96-294",
   "geocoded_location" : {
     "latitude" : "39.009348",
@@ -15069,7 +15069,7 @@
   },
   "address" : "8906 2ND STREET",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "01-509",
   "geocoded_location" : {
     "latitude" : "38.973574",
@@ -15099,7 +15099,7 @@
   },
   "address" : "5133 FROLICH LANE, SUITE C",
   "city" : "TUXEDO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "03-197",
   "geocoded_location" : {
     "latitude" : "38.921001",
@@ -15244,7 +15244,7 @@
   },
   "address" : "8805 OXWELL LANE",
   "city" : "LAUREL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "08-199",
   "geocoded_location" : {
     "latitude" : "39.060675",
@@ -15274,7 +15274,7 @@
   },
   "address" : "14625 BALTIMORE AVENUE, SUITE 898",
   "city" : "LAUREL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "13-406",
   "geocoded_location" : {
     "latitude" : "39.090252",
@@ -15329,7 +15329,7 @@
   },
   "address" : "6645 23RD AVENUE",
   "city" : "HYATTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-049",
   "geocoded_location" : {
     "latitude" : "38.972328",
@@ -15359,7 +15359,7 @@
   },
   "address" : "PO BOX 2102",
   "city" : "LEONARDTOWN",
-  "county" : "ST. MARY'S",
+  "county" : "ST. MARYS",
   "certification_number" : "15-012",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"PO BOX 2102\",\"city\":\"LEONARDTOWN\",\"state\":\"MD\",\"zip\":\"20650\"}",
@@ -15444,7 +15444,7 @@
   },
   "address" : "7245 HANOVER PARKWAY, SUITE C",
   "city" : "GREENBELT",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "99-294",
   "geocoded_location" : {
     "latitude" : "38.989865",
@@ -16087,7 +16087,7 @@
   "naics_code" : "561720-MBE/DBE/SBE",
   "address" : "6544 PRINCESS GARDEN PARKWAY",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "14-514",
   "geocoded_location" : {
     "latitude" : "38.97846",
@@ -16114,7 +16114,7 @@
   },
   "address" : "101 VISTA TERRACE",
   "city" : "OXON HILL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-620",
   "geocoded_location" : {
     "latitude" : "38.784166",
@@ -16306,7 +16306,7 @@
   },
   "address" : "5901 ARBOR STREET",
   "city" : "HYATTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-617",
   "geocoded_location" : {
     "latitude" : "38.917957",
@@ -16360,7 +16360,7 @@
   },
   "address" : "4600 BEECH WAY",
   "city" : "TEMPLE HILLS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "04-296",
   "geocoded_location" : {
     "latitude" : "38.826452",
@@ -16390,7 +16390,7 @@
   },
   "address" : "6072 CENTRAL AVENUE",
   "city" : "CAPITOL HEIGHTS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "07-408",
   "geocoded_location" : {
     "latitude" : "38.884879",
@@ -16469,7 +16469,7 @@
   "naics_code" : "323111-MBE/DBE/SBE, 323113-MBE/DBE/SBE, 323120-MBE/DBE/SBE, 511120-MBE/DBE/SBE, 561439-MBE/DBE/SBE",
   "address" : "4716 SUITLAND ROAD",
   "city" : "SUITLAND",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-275",
   "geocoded_location" : {
     "latitude" : "38.849057",
@@ -16589,7 +16589,7 @@
   },
   "address" : "3100 RITCHIE ROAD SUITE D/F",
   "city" : "DISTRICT HEIGHTS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-631",
   "geocoded_location" : {
     "latitude" : "38.847239",
@@ -16619,7 +16619,7 @@
   },
   "address" : "2300 ROSECROFT BOULEVARD",
   "city" : "FORT WASHINGTON",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "04-522",
   "geocoded_location" : {
     "latitude" : "38.795132",
@@ -16968,7 +16968,7 @@
   },
   "address" : "28275 THREE NOTCH ROAD",
   "city" : "MECHANICSVILLE",
-  "county" : "ST. MARY'S",
+  "county" : "ST. MARYS",
   "certification_number" : "16-546",
   "geocoded_location" : {
     "latitude" : "38.445058",
@@ -16995,7 +16995,7 @@
   "naics_code" : "236220-MBE/DBE/SBE, 237310-MBE/DBE/SBE, 238210-MBE/DBE/SBE, 238320-MBE/DBE/SBE, 423610-MBE/DBE/SBE",
   "address" : "1410  MARBLEWOOD AVENUE",
   "city" : "CAPITOL HEIGHTS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "94-017",
   "geocoded_location" : {
     "latitude" : "38.909447",
@@ -17022,7 +17022,7 @@
   },
   "address" : "PO BOX 705",
   "city" : "CALIFORNIA",
-  "county" : "ST. MARY'S",
+  "county" : "ST. MARYS",
   "certification_number" : "15-268",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"PO BOX 705\",\"city\":\"CALIFORNIA\",\"state\":\"MD\",\"zip\":\"20619\"}",
@@ -17107,7 +17107,7 @@
   },
   "address" : "14000 JERICHO PARK ROAD, SUITE 2306",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "13-564",
   "geocoded_location" : {
     "latitude" : "39.016385",
@@ -17284,7 +17284,7 @@
   },
   "address" : "4749 CLIFTON ROAD, UNIT C",
   "city" : "TEMPLE HILLS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-216",
   "geocoded_location" : {
     "latitude" : "38.824377",
@@ -17392,7 +17392,7 @@
   "naics_code" : "484220-MBE/DBE/SBE",
   "address" : "11681 PORT ROYAL AVENUE",
   "city" : "BRANDYWINE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "07-059",
   "geocoded_location" : {
     "latitude" : "38.573528",
@@ -17422,7 +17422,7 @@
   },
   "address" : "7701 WOODYARD RD",
   "city" : "CLINTON",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-143",
   "geocoded_location" : {
     "latitude" : "38.783755",
@@ -17665,7 +17665,7 @@
   },
   "address" : "5700 KIRBY ROAD",
   "city" : "CLINTON",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-478",
   "geocoded_location" : {
     "latitude" : "38.783454",
@@ -17719,7 +17719,7 @@
   "naics_code" : "484220-MBE/DBE/SBE",
   "address" : "3406 40TH AVENUE",
   "city" : "BRENTWOOD",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-484",
   "geocoded_location" : {
     "latitude" : "38.933454",
@@ -17876,7 +17876,7 @@
   "naics_code" : "237110-MBE/DBE/SBE, 237310-MBE/DBE/SBE, 238910-MBE/DBE/SBE, 238990-MBE/DBE/SBE, 484220-MBE/DBE/SBE, 488490-MBE/DBE/SBE",
   "address" : "6728 STANTON ROAD",
   "city" : "HYATTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-067",
   "geocoded_location" : {
     "latitude" : "38.947707",
@@ -17993,7 +17993,7 @@
   "naics_code" : "237310-MBE/DBE/SBE, 238110-MBE/DBE/SBE, 238310-MBE/DBE/SBE, 238910-MBE/DBE/SBE",
   "address" : "11803 FLORA LANE",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "07-445",
   "geocoded_location" : {
     "latitude" : "38.901311",
@@ -18212,7 +18212,7 @@
   },
   "address" : "3003 NIGHTSIDE DRIVE",
   "city" : "UPPR MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-400",
   "geocoded_location" : {
     "latitude" : "38.85063",
@@ -18380,7 +18380,7 @@
   },
   "address" : "8121 GEORGIA AVENUE, SUITE 950",
   "city" : "SILVER SPRING",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "91-097",
   "geocoded_location" : {
     "latitude" : "38.99103",
@@ -18410,7 +18410,7 @@
   },
   "address" : "5634 ANNAPOLIS ROAD",
   "city" : "BLADENSBURG",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "10-652",
   "geocoded_location" : {
     "latitude" : "38.939348",
@@ -18652,7 +18652,7 @@
   },
   "contact" : "BARBARA BAYNES",
   "contact_email_address" : "BARBIESHAULING@YAHOO.COM",
-  "name" : "BARBIE'S RECYCLING & HAULING, INC.",
+  "name" : "BARBIES RECYCLING & HAULING, INC.",
   "state" : "MD",
   "fax" : {
     "phone_number" : "4102873701"
@@ -18725,7 +18725,7 @@
   "naics_code" : "562119-MBE/DBE/SBE",
   "address" : "914 SHELBY DRIVE",
   "city" : "OXON HILL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "04-374",
   "geocoded_location" : {
     "latitude" : "38.796154",
@@ -18783,7 +18783,7 @@
   },
   "address" : "6411 IVY LANE, SUITE 408",
   "city" : "GREENBELT",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "04-100",
   "geocoded_location" : {
     "latitude" : "39.008468",
@@ -18867,7 +18867,7 @@
   },
   "address" : "4300 FORBES BLVD. SUITE 210",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-104",
   "geocoded_location" : {
     "latitude" : "38.949135",
@@ -18891,7 +18891,7 @@
   "naics_code" : "425120-MBE/DBE/SBE, 561720-MBE/DBE/SBE, 561730-MBE/DBE/SBE, 811192-MBE/DBE/SBE",
   "address" : "2804 PARKLAND DR.",
   "city" : "DISTRICT HEIGHTS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-043",
   "geocoded_location" : {
     "latitude" : "38.850621",
@@ -19319,7 +19319,7 @@
   "naics_code" : "484210-MBE/DBE/SBE, 492210-MBE/DBE/SBE",
   "address" : "7503 POTOMAC COURT",
   "city" : "GLENN DALE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "06-049",
   "geocoded_location" : {
     "latitude" : "38.991382",
@@ -19491,7 +19491,7 @@
   },
   "address" : "8068 CRYDEN WAY",
   "city" : "FORESTVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "07-153",
   "geocoded_location" : {
     "latitude" : "38.848587",
@@ -19599,7 +19599,7 @@
   },
   "address" : "1300 MERCANTILE LANE, SUITE 139-D",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "05-496",
   "geocoded_location" : {
     "latitude" : "38.90832",
@@ -19629,7 +19629,7 @@
   },
   "address" : "3404 DUNWOOD CROSSING DRIVE",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "06-066",
   "geocoded_location" : {
     "latitude" : "38.937513",
@@ -19920,7 +19920,7 @@
   },
   "contact" : "MYNEIKA WHITE",
   "contact_email_address" : "MYNEIKAB@BEATTYS2.COM",
-  "name" : "BEATTY'S SERVICES, INC.",
+  "name" : "BEATTYS SERVICES, INC.",
   "state" : "NJ",
   "certification_date" : "2016-04-20T00:00:00"
 }
@@ -19955,7 +19955,7 @@
   "naics_code" : "518210-MBE/DBE/SBE, 541213-MBE/DBE/SBE, 541214-MBE/DBE/SBE, 541219-MBE/DBE/SBE, 561110-MBE/DBE/SBE, 561440-MBE/DBE/SBE",
   "address" : "2550 CAMPUS WAY NORTH",
   "city" : "MITCHELLVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "13-112",
   "geocoded_location" : {
     "latitude" : "38.924997",
@@ -20009,7 +20009,7 @@
   "naics_code" : "238990-MBE/DBE/SBE, 561720-MBE/DBE/SBE, 561740-MBE/DBE/SBE, 561790-MBE/DBE/SBE",
   "address" : "711 LOCH NESS CIRCLE",
   "city" : "FT. WASHINGTON",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-665",
   "geocoded_location" : {
     "latitude" : "38.717996",
@@ -20039,7 +20039,7 @@
   },
   "address" : "7602 STANMORE DRIVE",
   "city" : "BELTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "02-327",
   "geocoded_location" : {
     "latitude" : "39.062845",
@@ -20324,7 +20324,7 @@
   },
   "address" : "12530 FAIRWOOD PKWY",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-040",
   "geocoded_location" : {
     "latitude" : "38.96278",
@@ -20365,7 +20365,7 @@
   },
   "contact" : "JOSEPH  C. BELL JR.",
   "contact_email_address" : "BETTYANDJOSEPH@HOTMAIL.COM",
-  "name" : "BELL'S CLEANING SERVICES, LLC",
+  "name" : "BELLS CLEANING SERVICES, LLC",
   "state" : "MD",
   "fax" : {
     "phone_number" : "4107503073"
@@ -20381,7 +20381,7 @@
   },
   "address" : "5005 CRESTON STREET",
   "city" : "HYATTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "90-639",
   "geocoded_location" : {
     "latitude" : "38.920616",
@@ -20441,7 +20441,7 @@
   },
   "address" : "10671 CAMPUS WAY, SOUTH",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "10-618",
   "geocoded_location" : {
     "latitude" : "38.896887",
@@ -20468,7 +20468,7 @@
   },
   "address" : "11262 OLD BALTIMORE PIKE",
   "city" : "BELTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "03-322",
   "geocoded_location" : {
     "latitude" : "39.038016",
@@ -20498,7 +20498,7 @@
   },
   "address" : "4505 DECLAIRMONTS FIELD DRIVE",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "05-453",
   "geocoded_location" : {
     "latitude" : "38.951615",
@@ -20525,7 +20525,7 @@
   "naics_code" : "484220-MBE/DBE/SBE, 488490-MBE/DBE/SBE",
   "address" : "514 EAST INDIAN SPRING DRIVE",
   "city" : "SILVER SPRING",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-725",
   "geocoded_location" : {
     "latitude" : "39.015501",
@@ -20637,7 +20637,7 @@
   },
   "address" : "11106 SUPERIOR LANDING",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "08-617",
   "geocoded_location" : {
     "latitude" : "38.951587",
@@ -20697,7 +20697,7 @@
   },
   "address" : "9805 HUXLEY DRIVE",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "08-479",
   "geocoded_location" : {
     "latitude" : "38.975701",
@@ -20781,7 +20781,7 @@
   "naics_code" : "541211-MBE/DBE/SBE",
   "address" : "9458 LANHAM SEVERN ROAD",
   "city" : "SEABROOK",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "17-069",
   "geocoded_location" : {
     "latitude" : "38.972896",
@@ -20859,7 +20859,7 @@
   "naics_code" : "484220-MBE/DBE/SBE, 488490-MBE/DBE/SBE",
   "address" : "801 THURMAN AVENUE",
   "city" : "HYATTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-202",
   "geocoded_location" : {
     "latitude" : "38.968479",
@@ -20886,7 +20886,7 @@
   },
   "address" : "4517 HATTIES PROGRESS DRIVE",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "08-259",
   "geocoded_location" : {
     "latitude" : "38.95049",
@@ -20946,7 +20946,7 @@
   },
   "address" : "12102 GORDON AVENUE",
   "city" : "BELTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-664",
   "geocoded_location" : {
     "latitude" : "39.059998",
@@ -21004,13 +21004,13 @@
   "website" : {
     "url" : "http://WWW.BETHELGROUP.COM"
   },
-  "address" : "4815 PRINCE GEORGE'S  AVENUE #204",
+  "address" : "4815 PRINCE GEORGES  AVENUE #204",
   "city" : "BELTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-232",
   "geocoded_location" : {
     "latitude" : "39.03966",
-    "human_address" : "{\"address\":\"4815 PRINCE GEORGE'S AVENUE #204\",\"city\":\"BELTSVILLE\",\"state\":\"MD\",\"zip\":\"20705\"}",
+    "human_address" : "{\"address\":\"4815 PRINCE GEORGES AVENUE #204\",\"city\":\"BELTSVILLE\",\"state\":\"MD\",\"zip\":\"20705\"}",
     "needs_recoding" : false,
     "longitude" : "-76.909817"
   },
@@ -21119,7 +21119,7 @@
   },
   "address" : "2500 DUNROBIN DRIVE",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-342",
   "geocoded_location" : {
     "latitude" : "38.923123",
@@ -21203,7 +21203,7 @@
   },
   "address" : "4800 HAMPDEN LANE, SUITE 200",
   "city" : "BETHESDA",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "10-437",
   "geocoded_location" : {
     "latitude" : "38.982718",
@@ -21233,7 +21233,7 @@
   },
   "address" : "1300 MERCANTILE LANE, SUITE 139-MM",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "08-205",
   "geocoded_location" : {
     "latitude" : "38.90832",
@@ -21274,7 +21274,7 @@
   },
   "contact" : "SUNNI H. KARNATU-BEY",
   "contact_email_address" : "SUNNIBEY@VERIZON.NET",
-  "name" : "BEY'S REFRIGERATION & HEATING COMPANY, INC.",
+  "name" : "BEYS REFRIGERATION & HEATING COMPANY, INC.",
   "state" : "MD",
   "fax" : {
     "phone_number" : "4103678269"
@@ -21425,7 +21425,7 @@
   "naics_code" : "541219-MBE/DBE/SBE, 541519-MBE/DBE/SBE, 541611-MBE/DBE/SBE, 541612-MBE/DBE/SBE, 541990-MBE/DBE/SBE, 561110-MBE/DBE/SBE, 561311-MBE/DBE/SBE, 561320-MBE/DBE/SBE",
   "address" : "4908 RIVERTON LANE",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-027",
   "geocoded_location" : {
     "latitude" : "38.999485",
@@ -21449,7 +21449,7 @@
   "naics_code" : "238910-MBE/DBE/SBE, 561720-MBE/DBE/SBE, 561730-MBE/DBE/SBE",
   "address" : "3001 MARCANDO LANE",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "07-177",
   "geocoded_location" : {
     "latitude" : "38.848076",
@@ -21561,7 +21561,7 @@
   "naics_code" : "484110-MBE/DBE/SBE, 562998-MBE/DBE/SBE",
   "address" : "3540 CRAIN HIGHWAY, #152",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "02-241",
   "geocoded_location" : {
     "latitude" : "38.936696",
@@ -21642,7 +21642,7 @@
   },
   "address" : "1834 BARRINGTON COURT",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-530",
   "geocoded_location" : {
     "latitude" : "38.914166",
@@ -21750,7 +21750,7 @@
   "naics_code" : "238320-MBE/DBE/SBE, 238990-MBE/DBE/SBE, 484110-MBE/DBE/SBE, 561720-MBE/DBE/SBE, 561730-MBE/DBE/SBE, 561740-MBE/DBE/SBE, 811192-MBE/DBE/SBE",
   "address" : "9103 WOODMORE CENTRE DRIVE, UNIT 319",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "00-179",
   "geocoded_location" : {
     "latitude" : "38.920743",
@@ -21764,7 +21764,7 @@
   },
   "contact" : "CHANDLER F. PEAKS",
   "contact_email_address" : "PEAKSPREFERREDCLEANING@YAHOO.COM",
-  "name" : "BILLY'S CLEANING SERVICE, INC.",
+  "name" : "BILLYS CLEANING SERVICE, INC.",
   "state" : "MD",
   "fax" : {
     "phone_number" : "3012977901"
@@ -21791,7 +21791,7 @@
   },
   "contact" : "RAYNARD D. BILLY",
   "contact_email_address" : "RAYNARD_BILLY@YAHOO.COM",
-  "name" : "BILLY'S CONSTRUCTION , LLC",
+  "name" : "BILLYS CONSTRUCTION , LLC",
   "state" : "MD",
   "certification_date" : "2012-02-29T00:00:00"
 }
@@ -21886,7 +21886,7 @@
   },
   "address" : "12700 WOODMORE NORTH BOULEVARD, STE A200",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "08-688",
   "geocoded_location" : {
     "latitude" : "38.970096",
@@ -21927,7 +21927,7 @@
   },
   "contact" : "ALLEN JONES",
   "contact_email_address" : "JOYMUNFORD.BNAHCC@YAHOO.COM",
-  "name" : "BIRD'S NEST AFTER HOURS CLEANING CO. LLC",
+  "name" : "BIRDS NEST AFTER HOURS CLEANING CO. LLC",
   "state" : "MD",
   "fax" : {
     "phone_number" : "4104832580"
@@ -22117,7 +22117,7 @@
   },
   "address" : "8227 CLOVERLEAF DRIVE",
   "city" : "MILLERSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-647",
   "geocoded_location" : {
     "latitude" : "39.120664",
@@ -22147,7 +22147,7 @@
   },
   "address" : "9332 ANNAPOLIS ROAD",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-042",
   "geocoded_location" : {
     "latitude" : "38.965205",
@@ -22173,7 +22173,7 @@
   "naics_code" : "238910-MBE/DBE/SBE, 238990-MBE/DBE/SBE",
   "address" : "4901 NICHOLSON STREET",
   "city" : "RIVERDALE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-661",
   "geocoded_location" : {
     "latitude" : "38.958554",
@@ -22257,7 +22257,7 @@
   "naics_code" : "541511-MBE/DBE/SBE, 541512-MBE/DBE/SBE, 541513-MBE/DBE/SBE, 541519-MBE/DBE/SBE, 541614-MBE/DBE/SBE, 561110-MBE/DBE/SBE",
   "address" : "9686 IRON LEAF TRAIL",
   "city" : "LAUREL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-244",
   "geocoded_location" : {
     "latitude" : "39.13539",
@@ -22423,7 +22423,7 @@
   },
   "address" : "9504 CHELTENHAM DRIVE",
   "city" : "BRANDYWINE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "13-359",
   "geocoded_location" : {
     "latitude" : "38.716201",
@@ -22510,7 +22510,7 @@
   "naics_code" : "425120-MBE/DBE/SBE",
   "address" : "2205 NORLINDA AVENUE",
   "city" : "OXON HILL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-593",
   "geocoded_location" : {
     "latitude" : "38.816436",
@@ -22647,7 +22647,7 @@
   },
   "address" : "14504 GREENVIEW DRIVE, SUITE 201",
   "city" : "LAUREL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "00-162",
   "geocoded_location" : {
     "latitude" : "39.089695",
@@ -22759,13 +22759,13 @@
   "zip" : "20616",
   "products_services" : "RESIDENTIAL PROPERTY MANAGERS LANDSCAPING SERVICES OTHER SERVICES TO BUILDINGS AND DWELLINGS SPECIFICALLY CLEANING BUILDING EXTERIORS",
   "naics_code" : "531311-MBE/DBE/SBE, 561730-MBE/DBE/SBE, 561790-MBE/DBE/SBE",
-  "address" : "7070 DADDY'S PLACE",
+  "address" : "7070 DADDYS PLACE",
   "city" : "BRYANS ROAD",
   "county" : "CHARLES",
   "certification_number" : "13-303",
   "geocoded_location" : {
     "latitude" : "38.640562",
-    "human_address" : "{\"address\":\"7070 DADDY'S PLACE\",\"city\":\"BRYANS ROAD\",\"state\":\"MD\",\"zip\":\"20616\"}",
+    "human_address" : "{\"address\":\"7070 DADDYS PLACE\",\"city\":\"BRYANS ROAD\",\"state\":\"MD\",\"zip\":\"20616\"}",
     "needs_recoding" : false,
     "longitude" : "-77.068141"
   },
@@ -22788,7 +22788,7 @@
   },
   "address" : "9701 APOLLO DRIVE, SUITE 300",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-622",
   "geocoded_location" : {
     "latitude" : "38.905142",
@@ -22872,7 +22872,7 @@
   },
   "address" : "7237 HANOVER PKWY, SUITE C",
   "city" : "GREENBELT",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-141",
   "geocoded_location" : {
     "latitude" : "38.989724",
@@ -22902,7 +22902,7 @@
   },
   "address" : "2110 BROOKS DRIVE #717",
   "city" : "FORESTVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-512",
   "geocoded_location" : {
     "latitude" : "38.860924",
@@ -22932,7 +22932,7 @@
   },
   "address" : "9362 DARCY ROAD",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-328",
   "geocoded_location" : {
     "latitude" : "38.846397",
@@ -22973,7 +22973,7 @@
   },
   "contact" : "CHARLES S BLOUNT",
   "contact_email_address" : "SUBROSA357@GMAIL.COM",
-  "name" : "BLOUNT'S PRIVATE INVESTIGATION AGENCY, LLC",
+  "name" : "BLOUNTS PRIVATE INVESTIGATION AGENCY, LLC",
   "state" : "MD",
   "fax" : {
     "phone_number" : "4438695533"
@@ -23109,7 +23109,7 @@
   },
   "address" : "2325 EVIAN COURT",
   "city" : "DISTRICT HEIGHTS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-363",
   "geocoded_location" : {
     "latitude" : "38.85822",
@@ -23215,7 +23215,7 @@
   "naics_code" : "237110-MBE/DBE/SBE, 237310-MBE/DBE/SBE, 238910-MBE/DBE/SBE, 484110-MBE/DBE/SBE, 484220-MBE/DBE/SBE, 488490-MBE/DBE/SBE",
   "address" : "10904 CHERRYVALE COURT",
   "city" : "BELTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "99-012",
   "geocoded_location" : {
     "latitude" : "39.03855",
@@ -23332,7 +23332,7 @@
   },
   "address" : "5623 ALLENTOWN ROAD, SUITE 202",
   "city" : "CAMP SPRINGS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-620",
   "geocoded_location" : {
     "latitude" : "38.809977",
@@ -23554,7 +23554,7 @@
   },
   "address" : "145 FLEET STREET, SUITE 303",
   "city" : "NATIONAL HARBOR",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "13-208",
   "geocoded_location" : {
     "latitude" : "38.783854",
@@ -23880,7 +23880,7 @@
   "naics_code" : "484220-MBE/DBE/SBE, 561990-MBE/DBE/SBE",
   "address" : "1403 OLD MUSKET LANE",
   "city" : "FORT WASHINGTON",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-078",
   "geocoded_location" : {
     "latitude" : "38.74041",
@@ -23920,7 +23920,7 @@
     "phone_number" : "4102883667"
   },
   "contact" : "ERIN SMITH",
-  "name" : "BOB'S OVERHEAD DOOR REPAIR & SERVICE, INC.",
+  "name" : "BOBS OVERHEAD DOOR REPAIR & SERVICE, INC.",
   "state" : "MD",
   "certification_date" : "2016-02-25T00:00:00"
 }
@@ -23933,7 +23933,7 @@
   },
   "address" : "10739 TUCKER STREET, SUITE 270",
   "city" : "BELTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "06-449",
   "geocoded_location" : {
     "latitude" : "39.026324",
@@ -23963,7 +23963,7 @@
   },
   "address" : "7422 LEAHY ROAD",
   "city" : "NEW CARROLLTON",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "93-217",
   "geocoded_location" : {
     "latitude" : "38.973747",
@@ -23990,7 +23990,7 @@
   "naics_code" : "531110-MBE/DBE/SBE",
   "address" : "14100 LANCASTER LANE",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "96-413",
   "geocoded_location" : {
     "latitude" : "38.981413",
@@ -24014,7 +24014,7 @@
   "naics_code" : "484110-MBE/DBE/SBE",
   "address" : "141 #B WATKINS STATION CIRCLE",
   "city" : "GAITHERSBURG",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "02-557",
   "geocoded_location" : {
     "latitude" : "39.160727",
@@ -24249,7 +24249,7 @@
   },
   "address" : "2 POST OFFICE ROAD, SUITE 3B",
   "city" : "WALDORF",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-463",
   "geocoded_location" : {
     "latitude" : "38.61891",
@@ -24306,7 +24306,7 @@
   },
   "address" : "1709 REBECCA COURT",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-219",
   "geocoded_location" : {
     "latitude" : "38.865257",
@@ -24363,7 +24363,7 @@
   },
   "address" : "4501 FORBES BOULEVARD, SUITE D",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "05-546",
   "geocoded_location" : {
     "latitude" : "38.950825",
@@ -24423,7 +24423,7 @@
   },
   "address" : "1209 CHURCH ROAD",
   "city" : "MITCHELLVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-046",
   "geocoded_location" : {
     "latitude" : "38.905542",
@@ -24461,7 +24461,7 @@
   },
   "contact" : "TONY BOWSER",
   "contact_email_address" : "COBB10@HOTMAIL.COM",
-  "name" : "BOWSER'S CONCRETE & SERVICES, LLC",
+  "name" : "BOWSERS CONCRETE & SERVICES, LLC",
   "state" : "MD",
   "fax" : {
     "phone_number" : "4107709850"
@@ -24584,7 +24584,7 @@
   },
   "address" : "2502 51ST AVENUE",
   "city" : "HYATTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "01-140",
   "geocoded_location" : {
     "latitude" : "38.92062",
@@ -24841,7 +24841,7 @@
   },
   "address" : "12507 GLADYS RETREAT CIRCLE",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-507",
   "geocoded_location" : {
     "latitude" : "38.962872",
@@ -24928,7 +24928,7 @@
   },
   "address" : "8321 BELLA VISTA TERRACE",
   "city" : "FORT WASHINGTON",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "10-105",
   "geocoded_location" : {
     "latitude" : "38.774055",
@@ -24958,7 +24958,7 @@
   },
   "address" : "301 COMPTON AVENUE",
   "city" : "LAUREL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "13-266",
   "geocoded_location" : {
     "latitude" : "39.098864",
@@ -25042,7 +25042,7 @@
   "naics_code" : "238120-MBE/DBE/SBE, 238190-MBE/DBE/SBE",
   "address" : "5407 FRAZIER TERRACE",
   "city" : "TEMPLE HILLS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "10-146",
   "geocoded_location" : {
     "latitude" : "38.815205",
@@ -25127,7 +25127,7 @@
   },
   "address" : "13008 FOX BOW DRIVE",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "08-585",
   "geocoded_location" : {
     "latitude" : "38.896292",
@@ -25157,7 +25157,7 @@
   },
   "address" : "9620 PENNSYLVANIA AVEE.",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "07-321",
   "geocoded_location" : {
     "latitude" : "38.817317",
@@ -25182,7 +25182,7 @@
   "zip" : "20774",
   "address" : "1401 MERCANTILE LN",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "17-148",
   "geocoded_location" : {
     "latitude" : "38.909085",
@@ -25442,7 +25442,7 @@
   },
   "address" : "8209 CRYDEN WAY",
   "city" : "FORESTVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "14-089",
   "geocoded_location" : {
     "latitude" : "38.847448",
@@ -25513,7 +25513,7 @@
   },
   "contact" : "ELIZABETH BRITT",
   "contact_email_address" : "CONTACT@WOSBPRINTING.COM",
-  "name" : "BRITT'S INDUSTRIES, INC.",
+  "name" : "BRITTS INDUSTRIES, INC.",
   "state" : "MD",
   "fax" : {
     "phone_number" : "4102243960"
@@ -25529,7 +25529,7 @@
   },
   "address" : "P. O. BOX 173",
   "city" : "OXON HILL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-330",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P. O. BOX 173\",\"city\":\"OXON HILL\",\"state\":\"MD\",\"zip\":\"20750\"}",
@@ -25584,7 +25584,7 @@
   },
   "address" : "200 FORT MEADE ROAD #1405",
   "city" : "LAUREL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-352",
   "geocoded_location" : {
     "latitude" : "39.095135",
@@ -25668,7 +25668,7 @@
   },
   "address" : "8787 BRANCH AVE, PMB #42",
   "city" : "CLINTON",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "11-283",
   "geocoded_location" : {
     "latitude" : "38.747472",
@@ -25752,7 +25752,7 @@
   },
   "address" : "7323 SUNRISE CT",
   "city" : "GREENBELT",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-471",
   "geocoded_location" : {
     "latitude" : "38.990985",
@@ -25782,7 +25782,7 @@
   },
   "address" : "9701 APOLLO DRIVE, SUITE 381",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "05-522",
   "geocoded_location" : {
     "latitude" : "38.905142",
@@ -25812,7 +25812,7 @@
   },
   "address" : "5550 TUXEDO ROAD, SUITE D",
   "city" : "CHEVERLY",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "07-402",
   "geocoded_location" : {
     "latitude" : "38.917344",
@@ -25896,7 +25896,7 @@
   },
   "address" : "8109 RIVER GATE LANE, SUITE 100",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "07-424",
   "geocoded_location" : {
     "latitude" : "38.999773",
@@ -25956,7 +25956,7 @@
   },
   "address" : "5210 OAHU COURT",
   "city" : "TEMPLE HILLS",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "17-201",
   "geocoded_location" : {
     "latitude" : "38.791967",
@@ -26010,7 +26010,7 @@
   "naics_code" : "238120-MBE/DBE/SBE",
   "address" : "6507 ROSALIE LANE",
   "city" : "RIVERDALE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-197",
   "geocoded_location" : {
     "latitude" : "38.957168",
@@ -26111,7 +26111,7 @@
   },
   "contact" : "TIMOTHY R. BROWN",
   "contact_email_address" : "BROMAGNANO@HITTANDCO.COM",
-  "name" : "BROWN'S ENTERPRISES, INC.",
+  "name" : "BROWNS ENTERPRISES, INC.",
   "state" : "MD",
   "fax" : {
     "phone_number" : "4108321875"
@@ -26362,7 +26362,7 @@
   },
   "address" : "22580 MUSCADINE DRIVE",
   "city" : "CLARKSBURG",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "14-419",
   "geocoded_location" : {
     "latitude" : "39.226605",
@@ -26449,7 +26449,7 @@
   },
   "address" : "908 HILL STREAM DRIVE",
   "city" : "HYATTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "08-649",
   "geocoded_location" : {
     "latitude" : "38.902524",
@@ -26502,7 +26502,7 @@
   "naics_code" : "484220-MBE/DBE/SBE",
   "address" : "5902 15TH AVE.",
   "city" : "HYATTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-543",
   "geocoded_location" : {
     "latitude" : "38.960696",
@@ -26569,7 +26569,7 @@
   },
   "contact" : "JAMES E. HUNTER",
   "contact_email_address" : "BUDDYSWIN@AOL.COM",
-  "name" : "BUDDY'S WINDOW WASHING SERVICES, LLC",
+  "name" : "BUDDYS WINDOW WASHING SERVICES, LLC",
   "state" : "MD",
   "fax" : {
     "phone_number" : "4104440631"
@@ -26806,7 +26806,7 @@
   "naics_code" : "238120-MBE/DBE/SBE",
   "address" : "9153 LANHAM SEVERN ROAD",
   "city" : "LANHAM",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "06-367",
   "geocoded_location" : {
     "latitude" : "38.967419",
@@ -26836,7 +26836,7 @@
   },
   "address" : "10610 RHODE ISLAND AVE, SUITE 301",
   "city" : "BELTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "09-468",
   "geocoded_location" : {
     "latitude" : "39.030057",
@@ -26866,7 +26866,7 @@
   },
   "address" : "12075 TECH ROAD - SUITE A",
   "city" : "SILVER SPRING",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "10-290",
   "geocoded_location" : {
     "latitude" : "39.053416",
@@ -26923,7 +26923,7 @@
   "naics_code" : "484220-MBE/DBE/SBE, 488490-MBE/DBE/SBE",
   "address" : "8651 JOHNSON AVE",
   "city" : "GLENARDEN",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-031",
   "geocoded_location" : {
     "latitude" : "38.932281",
@@ -27010,7 +27010,7 @@
   },
   "address" : "P O BOX 40",
   "city" : "BRANDYWINE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "08-646",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P O BOX 40\",\"city\":\"BRANDYWINE\",\"state\":\"MD\",\"zip\":\"20613\"}",
@@ -27085,7 +27085,7 @@
   "naics_code" : "238210-MBE/DBE/SBE, 541512-MBE/DBE/SBE",
   "address" : "6200 BALTIMORE AVENUE",
   "city" : "RIVERDALE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "17-174",
   "geocoded_location" : {
     "latitude" : "38.963457",
@@ -27115,7 +27115,7 @@
   },
   "address" : "6550 ROCK SPRING DRIVE, SUITE 450",
   "city" : "BETHESDA",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "08-061",
   "geocoded_location" : {
     "latitude" : "39.026473",
@@ -27142,7 +27142,7 @@
   "naics_code" : "561311-MBE/DBE/SBE, 611710-MBE/DBE/SBE, 624310-MBE/DBE/SBE",
   "address" : "1401 MERCANTILE LANE SUITE 101",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-132",
   "geocoded_location" : {
     "latitude" : "38.909085",
@@ -27321,7 +27321,7 @@
   },
   "address" : "9701 APOLLO DRIVE, SUITE 445",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "07-172",
   "geocoded_location" : {
     "latitude" : "38.905142",
@@ -27438,7 +27438,7 @@
   },
   "address" : "1400 MERCANTILE LANE, SUITE 254",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "01-199",
   "geocoded_location" : {
     "latitude" : "38.909945",
@@ -27465,7 +27465,7 @@
   "naics_code" : "541512-MBE/DBE/SBE, 611420-MBE/DBE/SBE",
   "address" : "P. O. BOX 405",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "13-557",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P. O. BOX 405\",\"city\":\"UPPER MARLBORO\",\"state\":\"MD\",\"zip\":\"20773\"}",
@@ -27493,7 +27493,7 @@
   },
   "address" : "P.O. BOX 730",
   "city" : "OXON HILL",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "06-458",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P.O. BOX 730\",\"city\":\"OXON HILL\",\"state\":\"MD\",\"zip\":\"20745\"}",
@@ -27521,7 +27521,7 @@
   },
   "address" : "1500 POINTER RIDGE PL, UNIT 1550",
   "city" : "BOWIE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "16-628",
   "geocoded_location" : {
     "latitude" : "38.908996",
@@ -27641,7 +27641,7 @@
   },
   "address" : "137 NATIONAL PLAZA",
   "city" : "NATIONAL HARBOR",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-143",
   "geocoded_location" : {
     "latitude" : "38.784826",
@@ -27716,7 +27716,7 @@
   "naics_code" : "541611-MBE/DBE/SBE, 541612-MBE/DBE/SBE, 611430-MBE/DBE/SBE",
   "address" : "P.O. BOX 7718",
   "city" : "LARGO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "15-539",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P.O. BOX 7718\",\"city\":\"LARGO\",\"state\":\"MD\",\"zip\":\"20792\"}",
@@ -27799,7 +27799,7 @@
   },
   "address" : "P.O. BOX 358",
   "city" : "BELTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "04-523",
   "geocoded_location" : {
     "human_address" : "{\"address\":\"P.O. BOX 358\",\"city\":\"BELTSVILLE\",\"state\":\"MD\",\"zip\":\"20704-0358\"}",
@@ -28080,7 +28080,7 @@
   },
   "address" : "7608 LOMAX LANE",
   "city" : "BELTSVILLE",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "12-430",
   "geocoded_location" : {
     "latitude" : "39.065219",
@@ -28137,7 +28137,7 @@
   "naics_code" : "238160-MBE/DBE/SBE, 238320-MBE/DBE/SBE, 238330-MBE/DBE/SBE",
   "address" : "131 KETTERING DRIVE",
   "city" : "UPPER MARLBORO",
-  "county" : "PRINCE GEORGE'S",
+  "county" : "PRINCE GEORGES",
   "certification_number" : "17-125",
   "geocoded_location" : {
     "latitude" : "38.888591",
@@ -28151,7 +28151,7 @@
   },
   "contact" : "CALVIN FULFORD",
   "contact_email_address" : "CAL.PAINTINGSERVICES@GMAIL.COM",
-  "name" : "CAL'S PAINTING SERVICES, LLC",
+  "name" : "CALS PAINTING SERVICES, LLC",
   "state" : "MD",
   "certification_date" : "2017-03-08T00:00:00"
 }
