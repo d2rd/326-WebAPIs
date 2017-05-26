@@ -24,4 +24,9 @@ Access & Use Information
 	License: No license information was provided.
 	
 
-Technologies Utilized
+Technologies Investigated/Utilized
+	pg-promises
+	Handlebars.js
+	Express.js
+	Node.js
+	

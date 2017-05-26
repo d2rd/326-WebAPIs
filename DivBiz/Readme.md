@@ -63,17 +63,17 @@ An added benefit of working on a concept-focus goal is that you'll have a projec
 
 #### General
 
-- [ ] Artifact produced is a GitHub repo.
+- [x] Artifact produced is a GitHub repo.
 - [ ] The best resources you find for learning testing are added to a file `resources.md`.
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
+- [x] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 #### Server
-- [ ] GitHub repo contains a web server.
-- [ ] Can run the command `npm start` to start the web server at port 3000.
-- [ ] The web server source code is written using the [Express][express] library.
+- [x] GitHub repo contains a web server.
+- [x] Can run the command `npm start` to start the web server at port 3000.
+- [x] The web server source code is written using the [Express][express] library.
 
 #### Request Types
-- [ ] The web server handles routes for `GET` requests
+- [x] The web server handles routes for `GET` requests
 - [ ] The web server handles routes for `POST` requests
 - [ ] The web server handles routes for `PUT/PATCH` requests
 - [ ] The web server handles routes for `DELETE` requests
@@ -92,8 +92,8 @@ The web server makes use of the following response status codes
 
 #### URL Components
 The web server uses URL components in routing and responding
-- [ ] Different paths trigger different routes
-- [ ] Values from the URL query string are used in a route
+- [x] Different paths trigger different routes
+- [x] Values from the URL query string are used in a route
 - [ ] Examples of routing and query string usage are listed and linked to in the README
 
 #### Headers
@@ -110,10 +110,10 @@ The web server makes use of the following response headers
 
 #### Resources
 The web server serves different types of resources
-- [ ] Asset files (CSS, images)
-- [ ] Static HTML
-- [ ] Static JSON
-- [ ] Dynamic resources (content of response changes based on query params, request headers, and/or application state)
+- [x] Asset files (CSS, images)
+- [x] Static HTML
+- [x] Static JSON
+- [x] Dynamic resources (content of response changes based on query params, request headers, and/or application state)
 - [ ] Examples of each response type are listed and linked to in the README
 
 #### Example Requests
@@ -177,3 +177,4 @@ The web server makes the following request types to an external API
 [mdn-http]: https://developer.mozilla.org/en-US/docs/Web/HTTP
 [egghead-http-basics]: https://egghead.io/courses/understand-the-basics-of-http
 [postman-extension]: https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en
+Add Comment Co
