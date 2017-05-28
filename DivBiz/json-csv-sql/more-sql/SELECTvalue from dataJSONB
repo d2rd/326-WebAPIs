@@ -1,0 +1,1 @@
+SELECT "datasetSource", "dataJSONB", "dataJSON" FROM public.mbedata;

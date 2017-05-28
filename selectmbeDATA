@@ -1,0 +1,2 @@
+SELECT id, data
+	FROM public.mbedata;

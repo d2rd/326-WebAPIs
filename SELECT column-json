@@ -1,0 +1,3 @@
+SELECT *  "geocoded_location->latitude", -- jsonb object
+
+FROM public.mbedatajsonb;
